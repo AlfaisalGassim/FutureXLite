@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+
+html {
+    font-size: 14px;
+    font-family: 'Cairo', sans-serif;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+    font-family: 'Cairo', sans-serif;
+    letter-spacing: normal;
+}
+
+body {
+    margin-bottom: 60px;
+    font-family: 'Cairo', sans-serif;
+    letter-spacing: 0 !important;
+}
